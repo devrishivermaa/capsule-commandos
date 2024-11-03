@@ -1,0 +1,143 @@
+{
+    "class_report": {
+        "Angioectasia": {
+            "precision": 0.8608695652173913,
+            "recall": 0.7967806841046278,
+            "f1-score": 0.8275862068965517,
+            "support": 497.0
+        },
+        "Bleeding": {
+            "precision": 0.8426666666666667,
+            "recall": 0.8802228412256268,
+            "f1-score": 0.8610354223433242,
+            "support": 359.0
+        },
+        "Erosion": {
+            "precision": 0.7594226142742582,
+            "recall": 0.8199134199134199,
+            "f1-score": 0.7885095753538718,
+            "support": 1155.0
+        },
+        "Erythema": {
+            "precision": 0.696,
+            "recall": 0.5858585858585859,
+            "f1-score": 0.6361974405850092,
+            "support": 297.0
+        },
+        "Foreign Body": {
+            "precision": 0.9096209912536443,
+            "recall": 0.9176470588235294,
+            "f1-score": 0.9136163982430454,
+            "support": 340.0
+        },
+        "Lymphangiectasia": {
+            "precision": 0.9292035398230089,
+            "recall": 0.9183673469387755,
+            "f1-score": 0.9237536656891495,
+            "support": 343.0
+        },
+        "Normal": {
+            "precision": 0.9788453774727492,
+            "recall": 0.9866525596158542,
+            "f1-score": 0.9827334630350194,
+            "support": 12287.0
+        },
+        "Polyp": {
+            "precision": 0.8063725490196079,
+            "recall": 0.658,
+            "f1-score": 0.724669603524229,
+            "support": 500.0
+        },
+        "Ulcer": {
+            "precision": 0.9664179104477612,
+            "recall": 0.9055944055944056,
+            "f1-score": 0.9350180505415162,
+            "support": 286.0
+        },
+        "Worms": {
+            "precision": 1.0,
+            "recall": 0.8382352941176471,
+            "f1-score": 0.912,
+            "support": 68.0
+        },
+        "accuracy": 0.943962310934788,
+        "macro avg": {
+            "precision": 0.8749419214175088,
+            "recall": 0.8307272196192473,
+            "f1-score": 0.8505119826211717,
+            "support": 16132.0
+        },
+        "weighted avg": {
+            "precision": 0.9432716047498271,
+            "recall": 0.943962310934788,
+            "f1-score": 0.9431062712681995,
+            "support": 16132.0
+        }
+    },
+    "auc_roc_scores": {
+        "Angioectasia": 0.9903843270689051,
+        "Bleeding": 0.99540071208742,
+        "Erosion": 0.9864368366271284,
+        "Erythema": 0.9889824462922031,
+        "Foreign Body": 0.9948237938792538,
+        "Lymphangiectasia": 0.9960717383231894,
+        "Normal": 0.9960843514713079,
+        "Polyp": 0.9894194600818832,
+        "Ulcer": 0.9962494119536907,
+        "Worms": 0.9993445336301852
+    },
+    "specificity_scores": {
+        "Angioectasia": 0.9959066197633515,
+        "Bleeding": 0.9962594306726685,
+        "Erosion": 0.9799692862388997,
+        "Erythema": 0.9952005052099779,
+        "Foreign Body": 0.9980369807497467,
+        "Lymphangiectasia": 0.9984799543986319,
+        "Normal": 0.9318595578673602,
+        "Polyp": 0.994946264073695,
+        "Ulcer": 0.9994320333207118,
+        "Worms": 1.0
+    },
+    "average_precision_scores": {
+        "Angioectasia": 0.9022208519054673,
+        "Bleeding": 0.9344224294229666,
+        "Erosion": 0.8781572698801089,
+        "Erythema": 0.7278662345816774,
+        "Foreign Body": 0.959432735570206,
+        "Lymphangiectasia": 0.961313128891445,
+        "Normal": 0.9987963003759818,
+        "Polyp": 0.8260823668060129,
+        "Ulcer": 0.9611310714576978,
+        "Worms": 0.9720216497269429
+    },
+    "sensitivity_scores": {
+        "Angioectasia": 0.7967806841046278,
+        "Bleeding": 0.8802228412256268,
+        "Erosion": 0.8199134199134199,
+        "Erythema": 0.5858585858585859,
+        "Foreign Body": 0.9176470588235294,
+        "Lymphangiectasia": 0.9183673469387755,
+        "Normal": 0.9866525596158542,
+        "Polyp": 0.658,
+        "Ulcer": 0.9055944055944056,
+        "Worms": 0.8382352941176471
+    },
+    "f1_scores": {
+        "Angioectasia": 0.8275862068965517,
+        "Bleeding": 0.8610354223433242,
+        "Erosion": 0.7885095753538718,
+        "Erythema": 0.6361974405850092,
+        "Foreign Body": 0.9136163982430454,
+        "Lymphangiectasia": 0.9237536656891495,
+        "Normal": 0.9827334630350194,
+        "Polyp": 0.724669603524229,
+        "Ulcer": 0.9350180505415162,
+        "Worms": 0.912
+    },
+    "mean_auc": 0.9933197611415168,
+    "mean_specificity": 0.9890090632295043,
+    "mean_average_precision": 0.9121444038618506,
+    "mean_sensitivity": 0.8307272196192473,
+    "mean_f1_score": 0.8505119826211717,
+    "balanced_accuracy": 0.8307272196192473
+}
