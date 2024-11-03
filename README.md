@@ -21,8 +21,39 @@ The Multiclass Abnormality Classification Task and Video Capsule Endoscopy proje
 To install this project, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/devrishivermaa/multiclass-abnormality-classification.git
+git clone https://github.com/devrishivermaa/capsule-commandos.git
 cd multiclass-abnormality-classification
 pip install -r requirements.txt
 
+```
+Ensure you are using Python 3.8 with a PyTorch setup compatible with your hardware.
+
+### Dataset Structure
+The dataset should be organized as follows:
+
+Dataset/
+├── training
+│   ├── Angioectasia
+│   ├── Bleeding
+│   ├── Erosion
+│   ├── Erythema
+│   ├── Foreign Body
+│   ├── Lymphangiectasia
+│   ├── Normal
+│   ├── Polyp
+│   ├── Ulcer
+│   └── Worms
+│   └── training_data.xlsx
+└── validation
+    ├── Angioectasia
+    ├── Bleeding
+    ├── Erosion
+    ├── Erythema
+    ├── Foreign Body
+    ├── Lymphangiectasia
+    ├── Normal
+    ├── Polyp
+    ├── Ulcer
+    └── Worms
+    └── validation_data.xlsx
 
