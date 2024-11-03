@@ -37,7 +37,7 @@ To access our final models, visit: [Final Models on Google Drive](https://drive.
 
 ## Contributors
 
-- **Dev Verma**
+- **Dev Rishi Verma**
 - **Vibhor Saxena**
 - **Dhruv Sharma**
 - **Arpan Gupta**
