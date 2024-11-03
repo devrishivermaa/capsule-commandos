@@ -9,20 +9,10 @@ The Multiclass Abnormality Classification Task and Video Capsule Endoscopy proje
 - **Collaboration**: Built with contributions from Dev Verma, Dhruv Sharma, Vibhor Saxena, and Arpan Gupta.
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Repository Structur](#github-structure)
+1. [Repository Structur](#github-structure)
+2. [Results](#results)
 3. [Contributors](#contributors)
-4. [License](#license)
 
-## Installation
-To install this project, clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/devrishivermaa/capsule-commandos.git
-cd multiclass-abnormality-classification
-pip install -r requirements.txt
-
-```
 Ensure you are using Python 3.8 with a PyTorch setup compatible with your hardware.
 
 ## Repository Structure
@@ -33,4 +23,15 @@ The capsule-commandos repository for the Capsule Vision 2024 Challenge includes 
 - **Evaluations:** Includes testing and validation scripts, along with performance metrics and result analysis.
 - **Reports:** Holds documentation and performance summaries of models.
 - **CapsuleCommandos_Arxiv.pdf:** Contains research findings and methodologies
+
+## Results
+
+All evaluation metrics, including F1-score, accuracy, precision, and others, are provided within the Reports folder, organized for each model. Corresponding Excel files and code for calculating these metrics are located in the Evaluation folder
+
+## Contributors
+
+- **Dev Verma**
+- **Vibhor Saxena**
+- **Dhruv Sharma**
+- **Arpan Gupta**
 
