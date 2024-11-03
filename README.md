@@ -9,7 +9,7 @@ The Multiclass Abnormality Classification Task and Video Capsule Endoscopy proje
 - **Collaboration**: Built with contributions from Dev Verma, Dhruv Sharma, Vibhor Saxena, and Arpan Gupta.
 
 ## Table of Contents
-1. [Repository Structur](#github-structure)
+1. [Repository Structure](#github-structure)
 2. [Results](#results)
 3. [Contributors](#contributors)
 
