@@ -1,6 +1,5 @@
 Repository Structure
-1) Code Files: This directory contains the training scripts and implementations for all the models we've tried. Each model is designed to enhance the performance and accuracy of abnormality detection.
-
-2) Evaluation: This folder includes all the testing and validation scripts. Here, you’ll find detailed evaluations of each model, including performance metrics and analysis of results.
-
-3) Davit Excel File: This section holds the code and Excel files related to our best-performing model. It contains comprehensive documentation on the model's architecture and parameters.
+1) Code Files: Contains training scripts for various models aimed at improving abnormality detection.
+2) Evaluations: Includes testing and validation scripts, along with performance metrics and result analysis.
+3) Reports: Holds documentation and performance summaries of models.
+4) CapsuleCommandos_Arxiv.pdf: Contains research findings and methodologies.
