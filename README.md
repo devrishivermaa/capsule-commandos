@@ -28,32 +28,12 @@ pip install -r requirements.txt
 ```
 Ensure you are using Python 3.8 with a PyTorch setup compatible with your hardware.
 
-### Dataset Structure
-The dataset should be organized as follows:
+## GitHub Structure
 
-Dataset/
-├── training
-│   ├── Angioectasia
-│   ├── Bleeding
-│   ├── Erosion
-│   ├── Erythema
-│   ├── Foreign Body
-│   ├── Lymphangiectasia
-│   ├── Normal
-│   ├── Polyp
-│   ├── Ulcer
-│   └── Worms
-│   └── training_data.xlsx
-└── validation
-    ├── Angioectasia
-    ├── Bleeding
-    ├── Erosion
-    ├── Erythema
-    ├── Foreign Body
-    ├── Lymphangiectasia
-    ├── Normal
-    ├── Polyp
-    ├── Ulcer
-    └── Worms
-    └── validation_data.xlsx
+The capsule-commandos repository for the Capsule Vision 2024 Challenge includes the following primary directories and files:
+
+- **Code Files:** Contains training scripts for various models aimed at improving abnormality detection.
+- **Evaluations:** Includes testing and validation scripts, along with performance metrics and result analysis.
+- **Reports:** Holds documentation and performance summaries of models.
+- **CapsuleCommandos_Arxiv.pdf:** Contains research findings and methodologies
 
