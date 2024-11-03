@@ -1,9 +1,9 @@
-# Capsule Commandos
+# Multiclass Abnormality Classification Task and Video Capsule Endoscopy
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Overview
-Capsule Commandos is a machine learning project designed to address the **Capsule Vision 2024 Challenge** by focusing on multi-class abnormality classification for video capsule endoscopy. The project leverages cutting-edge models and training techniques to enhance medical diagnostic capabilities. 
+The Multiclass Abnormality Classification Task and Video Capsule Endoscopy project is designed to address the **Capsule Vision 2024 Challenge** by focusing on multi-class abnormality classification for video capsule endoscopy. The project leverages cutting-edge models and training techniques to enhance medical diagnostic capabilities. 
 
 ### Key Features
 - **Deep Learning Models**: Includes Vision Transformers, CNNs, and ResNet architectures.
@@ -24,6 +24,6 @@ Capsule Commandos is a machine learning project designed to address the **Capsul
 To install this project, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/devrishivermaa/capsule-commandos.git
-cd capsule-commandos
+git clone https://github.com/devrishivermaa/multiclass-abnormality-classification.git
+cd multiclass-abnormality-classification
 pip install -r requirements.txt
