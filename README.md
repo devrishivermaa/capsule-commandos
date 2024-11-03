@@ -1,15 +1,12 @@
 # Multiclass Abnormality Classification Task and Video Capsule Endoscopy
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Overview
 The Multiclass Abnormality Classification Task and Video Capsule Endoscopy project is designed to address the **Capsule Vision 2024 Challenge** by focusing on multi-class abnormality classification for video capsule endoscopy. The project leverages cutting-edge models and training techniques to enhance medical diagnostic capabilities. 
 
 ### Key Features
 - **Deep Learning Models**: Includes Vision Transformers, CNNs, and ResNet architectures.
-- **Data Augmentation**: Utilizes histogram equalization, resizing, flips, rotations, affine transformations, color jittering, and normalization for robustness.
-- **Custom Training Pipeline**: Optimized with batch size 32, learning rate 1e-4, and trained for 20 epochs.
-- **Collaboration**: Built with contributions from Dhruv Sharma, Vibhor Saxena, and Arpan Gupta.
+- **Data Augmentation**: Utilizes  resizing, flips, rotations, and normalization for robustness.
+- **Collaboration**: Built with contributions from Dev Verma, Dhruv Sharma, Vibhor Saxena, and Arpan Gupta.
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -27,3 +24,5 @@ To install this project, clone the repository and install dependencies:
 git clone https://github.com/devrishivermaa/multiclass-abnormality-classification.git
 cd multiclass-abnormality-classification
 pip install -r requirements.txt
+
+
