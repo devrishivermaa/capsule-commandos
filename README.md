@@ -10,12 +10,9 @@ The Multiclass Abnormality Classification Task and Video Capsule Endoscopy proje
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Dataset Structure](#dataset-structure)
-3. [Usage](#usage)
-4. [Methodology](#methodology)
-5. [Results](#results)
-6. [Contributors](#contributors)
-7. [License](#license)
+2. [Repository Structur](#github-structure)
+3. [Contributors](#contributors)
+4. [License](#license)
 
 ## Installation
 To install this project, clone the repository and install dependencies:
@@ -28,7 +25,7 @@ pip install -r requirements.txt
 ```
 Ensure you are using Python 3.8 with a PyTorch setup compatible with your hardware.
 
-## GitHub Structure
+## Repository Structure
 
 The capsule-commandos repository for the Capsule Vision 2024 Challenge includes the following primary directories and files:
 
