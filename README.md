@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains the *capsule-commandos'* submission for the **Capsule Vision 2024 Challenge**. The project focuses on multi-class abnormality classification in video capsule endoscopy (VCE) frames, aiming to achieve accurate, automated detection of abnormalities.
+our team capsule commandos achieved 7th place ranking with a test set performance of Mean AUC: 0.7314 and balanced accuracy: 0.3235. 
 
 ### Key Features
 - **Deep Learning Models**: Includes Vision Transformers, CNNs, and ResNet architectures which we applied 
